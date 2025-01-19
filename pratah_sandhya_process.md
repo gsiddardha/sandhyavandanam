@@ -1,3 +1,5 @@
+```mermaid
+
 flowchart LR
     %% Shuddhi
     subgraph Shuddhi
@@ -118,3 +120,5 @@ flowchart LR
         --> GayatriMantraJapamu 
         --> Upasthanamu
         --> Samarpanamu
+
+```
